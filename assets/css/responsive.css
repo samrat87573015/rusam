@@ -1,0 +1,169 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .slider-area-content h1 {
+        font-size: 40px;
+    }
+    .services-top-svg {
+        top: -212px;
+    }
+    .testimonaial-img {
+        margin-top: 85px;
+    }
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .slider-svg-1 {
+        bottom: -20px;
+    }
+    .slider-svg-2 {
+        top: -34px;
+    }
+    .slider-area-content {
+        margin-top: 100px;
+    }
+    .slider-area-content h1 {
+        font-size: 40px;
+        line-height: 1.3em;
+    }
+    .services-top-svg {
+        top: -170px;
+    }
+    .blog-area-top-svg {
+        top: -170px;
+    }
+    .testimonaial-img {
+        margin-top: 30px;
+    }
+    button.carousel-control-prev {
+        bottom: -20px;
+    }
+    button.carousel-control-next {
+        bottom: -20px;
+    }
+    .rignt-side-single-blog {
+        min-height: 140px;
+        margin-bottom: 30px;
+    }
+    .single-counter {
+        margin-bottom: 30px;
+    }
+    .blog-page-blog-img {
+        width: 50%;
+    }
+    .single-recent-post-widget .recent-post-widget-img {
+        width: 100px;
+    }
+    .team-mamber-social {
+        justify-content: start;
+        margin-top: 20px;
+    }
+    .google-map-area {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .contact-info {
+        width: 100%;
+    }
+    .testimonaial-img {
+        width: 30%;
+        margin-top: 100px;
+    }
+    .testimonaial-content {
+        width: 70%;
+    }
+}
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .logo {
+        width: 170px;
+    }
+    .slider-area {
+        height: 1020px;
+    }
+    .slider-area-content {
+        margin-top: 100px;
+    }
+    .slider-area-content h1 {
+        font-size: 45px;
+    }
+    .slider-img-area {
+        margin-top: 30px;
+    }
+    .services-top-svg {
+        top: -74px;
+    }
+    .testimonaial-img {
+        width: 100%;
+    }
+    .testimonaial-content {
+        width: 100%;
+        text-align: center;
+        margin-top: -20px;
+    }
+    .testimonaial-content p {
+        font-size: 15px;
+    }
+    button.carousel-control-prev {
+        bottom: -20px;
+    }
+    button.carousel-control-next {
+        bottom: -20px;
+    }
+    .blog-area-top-svg {
+        top: -73px;
+    }
+    .right-side-blog-img {
+        width: 100%;
+    }
+    .right-side-blog-content {
+        width: 100%;
+        padding-left: 0;
+        margin-top: 30px;
+    }
+    .single-counter {
+        margin-bottom: 30px;
+    }
+    .blog-page-blog-img {
+        width: 100%;
+    }
+    .blog-page-blog-contant {
+        width: 100%;
+        margin-top: 20px;
+        padding-left: 0;
+    }
+    .single-recent-post-widget .recent-post-widget-img {
+        width: 100px;
+    }
+    .comment-avatar {
+        display: none;
+    }
+    .client-name-and-comment::before {
+        display: none;
+    }
+    .reply-comment {
+        margin-left: 30px;
+    }
+    .team-mamber-social {
+        justify-content: start;
+        margin-top: 20px;
+    }
+    .team-mamber-contant {
+        margin-bottom: 30px;
+    }
+    .google-map-area {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .contact-info {
+        width: 100%;
+    }
+    
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {}
